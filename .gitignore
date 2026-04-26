@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+*.pyc
+output/generated_tests/
+.DS_Store
